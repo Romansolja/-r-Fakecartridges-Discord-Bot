@@ -1,0 +1,14 @@
+{
+  "name": "fakecartsbot",
+  "version": "1.0.0",
+  "description": "/r/fakecartridges bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xepa#0001",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
