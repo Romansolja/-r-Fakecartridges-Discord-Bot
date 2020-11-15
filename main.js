@@ -33,4 +33,4 @@ client.on('message', message =>{
         client.commands.get("good").execute(message, args);
     }
 });
-client.login('NzU3MDM4MTE1MzAyMDE1MDM3.X2akrw.5X7zCqrzy-HXf5gVO1fx7wqZcNk');
+client.login('TOKEN');
